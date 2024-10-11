@@ -1,0 +1,7 @@
+C:\Users\Kissa\GitWork\1011KissAdam\bin\Debug\1011KissAdam.exe.config
+C:\Users\Kissa\GitWork\1011KissAdam\bin\Debug\1011KissAdam.exe
+C:\Users\Kissa\GitWork\1011KissAdam\bin\Debug\1011KissAdam.pdb
+C:\Users\Kissa\GitWork\1011KissAdam\obj\Debug\1011KissAdam.csproj.AssemblyReference.cache
+C:\Users\Kissa\GitWork\1011KissAdam\obj\Debug\1011KissAdam.csproj.CoreCompileInputs.cache
+C:\Users\Kissa\GitWork\1011KissAdam\obj\Debug\1011KissAdam.exe
+C:\Users\Kissa\GitWork\1011KissAdam\obj\Debug\1011KissAdam.pdb
